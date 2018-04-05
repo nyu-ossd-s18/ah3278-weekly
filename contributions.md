@@ -12,3 +12,4 @@
 |8|[Commented on Issue 9589 with confirmation of issue](https://github.com/mozilla/pdf.js/issues/9589)|Other|
 |9|[Commented on Issue 5499 with confirmation of issue](https://github.com/mozilla/pdf.js/issues/5499)|Other|
 |10|[Fixed redundancy and tense](https://en.wikipedia.org/w/index.php?title=Asaka_(musician)&oldid=834283706)|Wikipedia|
+|10|[Added information](https://en.wikipedia.org/w/index.php?title=Flow_(band)&oldid=834318813)|Wikipedia|
