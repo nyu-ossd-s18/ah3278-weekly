@@ -17,3 +17,4 @@
 |10|[Added information](https://en.wikipedia.org/w/index.php?title=Flow_(band)&oldid=834318813)|Wikipedia|
 |10|[Created pull request to fix Broken Github Link](https://github.com/joannakl/cs480_s18/pull/106)|Course Website|
 |11|[Commented on Issue 17106](https://github.com/atom/atom/issues/17106)|Other|
+|11|[Commented on Issue 17095](https://github.com/atom/atom/issues/17095)|Other|
