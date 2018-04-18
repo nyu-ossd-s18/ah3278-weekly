@@ -18,3 +18,5 @@
 |10|[Created pull request to fix Broken Github Link](https://github.com/joannakl/cs480_s18/pull/106)|Course Website|
 |11|[Commented on Issue 17106](https://github.com/atom/atom/issues/17106)|Other|
 |11|[Commented on Issue 17095](https://github.com/atom/atom/issues/17095)|Other|
+|12|[Added information on Artichoke Pizza on OpenStreetMap](https://www.openstreetmap.org/user/CarrotWater/history#map=19/40.72995/-74.00066)|Other|
+|12|[Added Avalon on OpenStreetMap](https://www.openstreetmap.org/user/CarrotWater/history#map=19/40.72970/-74.00073)|Other|
