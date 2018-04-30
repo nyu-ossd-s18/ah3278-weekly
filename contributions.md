@@ -20,3 +20,5 @@
 |11|[Commented on Issue 17095](https://github.com/atom/atom/issues/17095)|Other|
 |12|[Added information on Artichoke Pizza on OpenStreetMap](https://www.openstreetmap.org/user/CarrotWater/history#map=19/40.72995/-74.00066)|Other|
 |12|[Added Avalon on OpenStreetMap](https://www.openstreetmap.org/user/CarrotWater/history#map=19/40.72970/-74.00073)|Other|
+|13|[Added Debutea on OpenStreetMap](https://www.openstreetmap.org/changeset/58540040)|Other|
+|13|[Added Third Rail Coffee on OpenStreetMap](https://www.openstreetmap.org/changeset/58540094)|Other|
